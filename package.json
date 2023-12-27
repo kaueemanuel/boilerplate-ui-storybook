@@ -1,10 +1,10 @@
 {
-  "name": "boilerplate-ui-storybook",
+  "name": "boilerplate-ui-mui-storybook",
   "private": false,
   "version": "0.0.1",
   "type": "module",
-  "main": "./dist/boilerplate-ui-storybook.umd.cjs",
-  "module": "./dist/boilerplate-ui-storybook.js",
+  "main": "./dist/boilerplate-ui-mui-storybook.umd.cjs",
+  "module": "./dist/boilerplate-ui-mui-storybook.js",
   "types": "./dist/index.d.ts",
   "exports": {
     ".": {

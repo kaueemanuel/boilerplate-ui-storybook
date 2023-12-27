@@ -26,7 +26,7 @@ export default defineConfig({
         resolve(__dirname, "lib/material.ts"),
         resolve(__dirname, "lib/icons-material.ts"),
       ],
-      name: "boilerplate-ui-storybook",
+      name: "boilerplate-ui-mui-storybook",
       fileName: (format, name) => {
         if (format === "es") {
           return `${name}.js`
